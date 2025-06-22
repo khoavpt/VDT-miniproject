@@ -1,0 +1,1 @@
+# VDT mini project: Single-image-to-3D Reconstruction using Score Distillation Sampling
