@@ -1,8 +1,12 @@
 3D_assignments/
 data/
-dreamgaussian/
+dreamgaussian/logs
+dreamgaussian/outputs
 evaluation/
-MicroDreamer/
-One-2-3-45/
+MicroDreamer/logs
+# One-2-3-45/
+
+threestudio/outputs/
+threestudio/load/
+
 outputs/
-threestudio/
